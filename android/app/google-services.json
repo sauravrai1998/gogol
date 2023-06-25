@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "437437253232",
+    "project_id": "olivers-pharamacy",
+    "storage_bucket": "olivers-pharamacy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437437253232:android:7383fed5ad60eba23956b5",
+        "android_client_info": {
+          "package_name": "com.example.gogol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437437253232-er7nue09o7jjn0ecge65kdahhq1grull.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gogol",
+            "certificate_hash": "613cc9421ee87eca92bb12a35f27b0b1d7b63f78"
+          }
+        },
+        {
+          "client_id": "437437253232-c2ml2lnrolobk605shp5pqhiu5r6et73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJLF0Y_8tK59dgwPCOz-9fFBWPdTBF8Yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437437253232-c2ml2lnrolobk605shp5pqhiu5r6et73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
